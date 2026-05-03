@@ -13,7 +13,8 @@ Image processing fundamentals
 Face detection algorithms
 Real-time video capture
 Practical applications of Python in Computer Vision
-🛠 Technologies Used
+
+# 🛠 Technologies Used
 Python
 OpenCV
 Haar Cascade Classifier
